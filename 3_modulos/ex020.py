@@ -9,4 +9,6 @@ aluno4 = str(input('Digite o nome do quanto aluno: '))
 lista = [aluno1, aluno2, aluno3, aluno4]
 shuffle(lista)
 
-print(f'A ordem do sorteio foi {lista}')
+lista_formatada = ' '.join(lista) 
+
+print(f"A ordem do sorteio foi {lista_formatada}")

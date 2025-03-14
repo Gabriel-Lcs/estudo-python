@@ -28,3 +28,7 @@ O laço de repetição FOR é uma forma para automatizar tarefas repetitivas de 
 
 O laço WHILE funciona muito parecido com o laço FOR, ele pode ser usado para fazer repetições de programas com repetições definidas, mas ele é mais usado quando não se sabe o número de repetições definidas, assim podendo ficar até o infinito caso não tenha uma condição que tire do laço.
 
+### **Tuplas**
+
+As Tuplas funcionam como uma estrutura de dados que armazena variáveis, porém são imutáveis. 
+
