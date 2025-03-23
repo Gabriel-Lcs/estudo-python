@@ -1,4 +1,5 @@
 # Anotações de sobre LISTAS:
+#pt1
 
 lanche = ['hambúrguer', 'suco', 'pudim', 'pizza']
 print(lanche)
@@ -48,3 +49,22 @@ y[3] = 9
 
 print(f'A lista X: {x}')
 print(f'A lista Y: {y}')
+
+#pt2
+# Listas dentro de outras listas
+pessoas = [['Pedro', 25], ['Maria', 19], ['João', 32]]
+print(pessoas[0][0])
+print(pessoas[0])
+print(pessoas[1][0])
+print(pessoas[1][1])
+
+#Adicionar pessoas 
+galera = []
+dado = []
+for i in range(0, 3):
+    dado.append(str(input('Nome: ')))
+    dado.append(int(input('Idade: ')))
+    galera.append(dado[:])
+    dado.clear()
+
+print(galera)

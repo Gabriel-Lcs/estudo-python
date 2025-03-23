@@ -32,3 +32,7 @@ O laço WHILE funciona muito parecido com o laço FOR, ele pode ser usado para f
 
 As Tuplas funcionam como uma estrutura de dados que armazena variáveis, porém são imutáveis. 
 
+### **Listas**
+
+As listas são muito parecidas com as tuplas, mas com uma liberdade muito maior, podendo fazer alterações.
+
