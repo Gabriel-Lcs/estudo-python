@@ -36,3 +36,6 @@ As Tuplas funcionam como uma estrutura de dados que armazena variáveis, porém 
 
 As listas são muito parecidas com as tuplas, mas com uma liberdade muito maior, podendo fazer alterações.
 
+### **Dicionários**
+
+O mais completo entre listas e tuplas pois pode ser acessador por uma "key" facilitando mundo a anlálise dos dados dos dicionários, porém assim como as outras, tem suas limitações.
