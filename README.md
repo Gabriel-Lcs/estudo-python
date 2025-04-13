@@ -39,3 +39,7 @@ As listas são muito parecidas com as tuplas, mas com uma liberdade muito maior,
 ### **Dicionários**
 
 O mais completo entre listas e tuplas pois pode ser acessador por uma "key" facilitando mundo a anlálise dos dados dos dicionários, porém assim como as outras, tem suas limitações.
+
+### **Funções**
+
+Funções permite que execute um bloco específico de código, permitindo assim que reaproveite alguns trechos repetidos de código.
