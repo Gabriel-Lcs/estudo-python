@@ -40,3 +40,53 @@ print(valores)
 
 soma1(2, 5)
 soma1(2, 4, 6)
+
+#Parte 2
+#interactive help
+    #help() Mostra tudo sobre a função definida no terminal
+
+def cont(i, f, p):
+    """
+    -> Faz uma contagem de números:
+        :parametro i: Inicio da contagem
+        :parametro f: Fim da contagem 
+        :parametro p: Passo da contagem 
+        :return: sem retorno
+    """
+    while i <= f:
+        print(i, end=' ', flush=True)
+            
+        i += p 
+
+
+cont(0, 10, 2)
+help(cont)
+
+#Parâmetro opcional:
+def somar(a = 0, b = 0, c = 0):
+    """
+    -> Função para somar elementos
+        :parametro a: o primeiro valor
+        :parametro b: o segundo valor
+        :parametro c: o terceiro valor
+        :parametro s: soma todos os elementos
+    """
+    s = a + b + c
+    print(s)
+
+    #com o Parâmetro opcional eu consigo não preencher todos os valores na função, permitidno chamar a função dessas 4 formas, até mesmo vazio
+somar(4, 3, 9)                  
+somar(4, 3)
+somar(4)
+somar()
+
+#Escopo de variáveis:
+def teste(b):
+    global a           #transforma o A de fora de 5 para 8, caso não tivesse o "global" mesmo colocando 8 localmente, fora continuaria com 5.
+    a = 8                       
+    b += 4
+    c = 2
+
+
+a = 5
+teste(a)

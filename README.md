@@ -42,4 +42,4 @@ O mais completo entre listas e tuplas pois pode ser acessador por uma "key" faci
 
 ### **Funções**
 
-Funções permite que execute um bloco específico de código, permitindo assim que reaproveite alguns trechos repetidos de código.
+Funções permite que execute um bloco específico de código, permitindo assim que reaproveite alguns trechos repetidos de código. Na parte 2 foi visto Interactive Help, para saber mais sobre alguamas bibliotecas, docstrings para documentar as funções, argumentos opcionais para tornar as funções mais dinâmicas, escopo de variáveis e retorno de resultados.
