@@ -4,11 +4,11 @@ Nesse repositório está uma lista de exercícios básicos de conceitos de pytho
 
 Cabe um adendo que os conteúdos são acumulativos, ou seja, os conteúdos vistos no começo aparecem posteriormente nos conteúdos vistos mais na frente.
 
-### **Primeiros passos**
+### *Primeiros passos*
 
 Não foi feito muitas coisas, apenas como dar um olá mundo e um exemplo de entrada no teclado.
 
-### **Primitivas**
+### *Primitivas*
 
 Nas primitivas foi visto os operadores aritméticos como (+, -, *, /, **, %), também foi visto métodos como isnumeric(), isalnum(), etc.
 
@@ -43,3 +43,5 @@ O mais completo entre listas e tuplas pois pode ser acessador por uma "key" faci
 ### **Funções**
 
 Funções permite que execute um bloco específico de código, permitindo assim que reaproveite alguns trechos repetidos de código. Na parte 2 foi visto Interactive Help, para saber mais sobre alguamas bibliotecas, docstrings para documentar as funções, argumentos opcionais para tornar as funções mais dinâmicas, escopo de variáveis e retorno de resultados.
+
+### **Tratamento de erro**
