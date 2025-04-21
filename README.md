@@ -1,15 +1,12 @@
 # **EXERCÍCIOS DE PYTHON**
-
 Nesse repositório está uma lista de exercícios básicos de conceitos de python que estou usando para estudar. A lista é do professor Gustavo Guanabara disponível no site www.cursoemvideo.com
 
 Cabe um adendo que os conteúdos são acumulativos, ou seja, os conteúdos vistos no começo aparecem posteriormente nos conteúdos vistos mais na frente.
 
 ## **Primeiros passos**
-
 Não foi feito muitas coisas, apenas como dar um olá mundo e um exemplo de entrada no teclado.
 
 ## **Primitivas**
-
 Nas primitivas foi visto os operadores aritméticos como (+, -, *, /, **, %), também foi visto métodos como isnumeric(), isalnum(), etc.
 
 ## **Módulos**
